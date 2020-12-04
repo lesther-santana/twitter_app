@@ -1,4 +1,4 @@
-# Real-Time Tweet Analysis App (not finished)
+# Real-Time Tweet Analysis App (ongoing)
 
 The goal of this project is to practice real-time data analysis using python.
 
